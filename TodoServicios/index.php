@@ -14,6 +14,8 @@ and open the template in the editor.
         <header>
             
         </header>
+          
+        programa de prueba
         
         <footer>
             
