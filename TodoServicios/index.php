@@ -12,12 +12,11 @@ and open the template in the editor.
     <body>
 
         <header>
+            <div>
                 
+            </div>      
         </header>
           
-        programa de prueba
-        
-        quiero matar a mi jefe
         
         <footer>
             
