@@ -16,7 +16,7 @@ and open the template in the editor.
         <header>
             <div>
                 <p ALIGN=center>Los mejores servicios encuentralos al instante</p>
-                <a href="index.php"><img src="images/logo.png" width="111px" height="222px" alt="todoservicio.com logo"/></a>
+                <a href="index.php"><img src="images/logo.png" width="222px" height="222px" alt="todoservicio.com logo"/></a>
             </div>      
         </header>
           
