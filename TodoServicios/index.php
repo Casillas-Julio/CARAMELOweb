@@ -27,6 +27,7 @@ and open the template in the editor.
             <p ALIGN=center> <i>Todos los derechos reservados</i> </p>
             <p ALIGN=center>San Luis Potosí, S.L.P.</p>
             <p ALIGN=center>Simplemente estoy probando el <b>footer</b> </p>
+            <p>gato </p>
         </footer>
         
     </body>
