@@ -9,19 +9,25 @@ and open the template in the editor.
         <meta charset="UTF-8">
         <title>Todo Servicios</title>
         <meta name="Description" content="Ofrece y recibe los mejores servicios al instante. ">
+        <link href="style.css" rel="stylesheet" type="text/css"/>
     </head>
-    
+
     <body>
 
         <header>
             <div>
                 <p ALIGN=center>Los mejores servicios encuentralos al instante</p>
                 <a href="index.php"><img src="images/logo.png" width="222px" height="222px" alt="todoservicio.com logo"/></a>
+                <br>
+                <div id="yoyo">
+                    <img src="images/wtf.gif" alt=""/>
+                    <p>Hola Oscar</p>
+                </div>
             </div>      
         </header>
-          
-        
-        
+
+
+
         <footer>
             <HR align="CENTER" size="2" width="1000" color="Red" noshade>
             <p ALIGN=center> <i>Todos los derechos reservados</i> </p>
@@ -29,6 +35,6 @@ and open the template in the editor.
             <p ALIGN=center>Simplemente estoy probando el <b>footer</b> </p>
             <p>gato </p>
         </footer>
-        
+
     </body>
 </html>
