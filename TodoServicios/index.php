@@ -64,7 +64,7 @@ and open the template in the editor.
         
         
         
-        <footer>
+        <footer id="nav_footer">
             <HR align="CENTER" size="2" width="1000" color="Red" noshade>
             <p ALIGN=center> <i>Todos los derechos reservados</i> </p>
             <p ALIGN=center>San Luis Potosí, S.L.P.</p>

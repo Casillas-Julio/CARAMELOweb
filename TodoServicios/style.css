@@ -21,3 +21,19 @@ and open the template in the editor.
     padding-left: 24px;
     padding-right: 24px;
 }
+
+#nav_body {
+    width:100%;
+    background:#3300FF;
+    
+}
+
+#nav_footer{
+     width:100%;
+    background:#3300FF;
+    margin:1px;
+    padding-left: 24px;
+    padding-right: 24px;
+    font-family: 
+    
+}
