@@ -14,7 +14,7 @@ and open the template in the editor.
 
     <body>
 
-        <header>
+        <header id="nav_header">
             <table width="100%" border="1" bordercolor="#0000FF" cellspacing="10" cellpadding="10">
                 <tr>
                     <td><a href="index.php"><img src="images/logo.png" width="222px" height="222px" alt="todoservicio.com logo"/></a></td>

@@ -10,6 +10,14 @@ and open the template in the editor.
 
 #yoyo {
     backgroud-color: #CC00FF;
-    float: rigth;
+    allign: center;
     
+}
+
+#nav_header {
+    width:100%;
+    background:#3300FF;
+    margin:1px;
+    padding-left: 24px;
+    padding-right: 24px;
 }
