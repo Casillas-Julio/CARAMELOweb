@@ -18,17 +18,16 @@ and open the template in the editor.
             <table width="100%" border="1" bordercolor="#0000FF" cellspacing="10" cellpadding="10">
                 <tr>
                     <td><a href="index.php"><img src="images/logo.png" width="222px" height="222px" alt="todoservicio.com logo"/></a></td>
-                    <td>ANUNCIA SERVICIO</td>
-                    <td>ENCUENTRA SERVICIO</td>
-                    <td>CONTACTANOS</td>
+                <a href="anunciaservicio.php"><td>ANUNCIA SERVICIO</td></a>
+                <a href="encuentraservicio.php"><td>ENCUENTRA SERVICIO</td></a>
+                <a href="contactanos.php"><td>CONTACTANOS</td></a>
                 </tr>
             </table>
             
             <div>
                 <p ALIGN=center>Los mejores servicios encuentralos al instante</p>
-                <a href="index.php"><img src="images/logo.png" width="222px" height="222px" alt="todoservicio.com logo"/></a>
                 <br>
-                <div id="yoyo">
+                <div>
                     <img src="images/wtf.gif" alt=""/>
                     <p>Hola Oscar</p>
                 </div>
