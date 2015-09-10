@@ -16,10 +16,11 @@ and open the template in the editor.
 
 #nav_header {
     width:100%;
-    background:#3300FF;
+    background:#A9D0F5;
     margin:1px;
     padding-left: 24px;
     padding-right: 24px;
+    font-family: "Arial Black";
 }
 
 #nav_body {
@@ -36,4 +37,9 @@ and open the template in the editor.
     padding-right: 24px;
     font-family: arial;
     
+}
+
+#banner_main{
+    width: 300px;
+    margin: 1px;
 }
