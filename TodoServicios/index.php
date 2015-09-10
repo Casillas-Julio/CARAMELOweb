@@ -36,9 +36,9 @@ and open the template in the editor.
         
         <nav>
             <ul>
-                <li><a href="cursohtml.html">encuentra un servicio</a></li>
-                <li><a href="cursocss.html">Anuncia un servicio</a></li>
-                <li><a href="cursojavascript.html">contactanos</a></li>
+                <li><a href="encuentraservicio.php">encuentra un servicio</a></li>
+                <li><a href="anunciaservicio.php">Anuncia un servicio</a></li>
+                <li><a href="contactanos.php">contactanos</a></li>
             </ul>
         </nav>
 
