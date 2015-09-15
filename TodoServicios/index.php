@@ -11,65 +11,45 @@ and open the template in the editor.
         <meta name="Description" content="Ofrece y recibe los mejores servicios al instante. ">
         <link href="style.css" rel="stylesheet" type="text/css"/>
     </head>
-
+        <!------ AQUI EMPIEZA EL BODY------>
     <body>
-
+        <!-------- AQUI EMPIEZA EL HEADER-------->
         <header id="nav_header">
+            <div>
+                <a href="index.php"><img src="images/logo.png" width="222px" height="222px" alt="todoservicio.com logo"/></a>
+                <p alling=center>Los mejores servicios encuentralos al instante</p>
+            </div>      
+        </header>
+        <!-------- AQUI EMPIEZA EL HEADER-------->
+       
+        
+        <!------- AQUI EMPIEZA LA PANZA -------->
+         <nav>
             <table width="100%" border="1" bordercolor="#0000FF" cellspacing="10" cellpadding="10">
                 <tr>
-                    <td><a href="index.php"><img src="images/logo.png" width="222px" height="222px" alt="todoservicio.com logo"/></a></td>
                 <a href="anunciaservicio.php"><td>ANUNCIA SERVICIO</td></a>
                 <a href="encuentraservicio.php"><td>ENCUENTRA SERVICIO</td></a>
                 <a href="contactanos.php"><td>CONTACTANOS</td></a>
                 </tr>
             </table>
-            
-            <div>
-                <p ALIGN=center>Los mejores servicios encuentralos al instante</p>
-                <br>
-                <div>
-                    <img src="images/wtf.gif" alt=""/>
-                    <p>Hola Oscar</p>
-                </div>
-            </div>      
-        </header>
-        
-        <nav>
-            <ul>
-                <li><a href="encuentraservicio.php">encuentra un servicio</a></li>
-                <li><a href="anunciaservicio.php">Anuncia un servicio</a></li>
-                <li><a href="contactanos.php">contactanos</a></li>
-            </ul>
         </nav>
-
+        
+        <img src="images/wtf.gif" alt=""/>
+        <p>Hola Oscar</p>
+        
+        <!------- AQUI TERMINA LA PANZA -------->
         
         
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
+        <!-------- AQUI EMPIEZA EL FOOTER---------->
         <footer id="nav_footer">
             <HR align="CENTER" size="2" width="1000" color="Red" noshade>
             <p ALIGN=center> <i>Todos los derechos reservados</i> </p>
             <p ALIGN=center>San Luis Potosí, S.L.P.</p>
             <p ALIGN=center>Simplemente estoy probando el <b>footer</b> </p>
-            <p>gato </p>
         </footer>
+        <!-------- AQUI TERMINA EL FOOTER---------->
 
     </body>
+    
+    <!------ AQUI TERMINA EL BODY------>
 </html>

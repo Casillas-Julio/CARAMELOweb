@@ -15,6 +15,7 @@ and open the template in the editor.
 }
 
 #nav_header {
+    alling:center;
     width:100%;
     background:#A9D0F5;
     margin:1px;
@@ -24,8 +25,10 @@ and open the template in the editor.
 }
 
 #nav_body {
+    
     width:100%;
     background:#3300FF;
+    
     
 }
 
