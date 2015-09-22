@@ -12,7 +12,7 @@ and open the template in the editor.
         <link href="style.css" rel="stylesheet" type="text/css"/>
     </head>
         <!-- AQUI EMPIEZA EL BODY-->
-    <body>
+    <body id="style">
         <!-- AQUI EMPIEZA EL HEADER-->
         <header id="nav_header">
             <div>
